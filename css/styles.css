@@ -262,7 +262,7 @@
   text-shadow: 0 0 30px rgba(0, 0, 0, .1);
 }
 #about>h2{
-  font-size: 50px;
+  font-size: 45px;
   margin: auto;
   text-align: center;
   font-family: "DM-Sans", "Century Gothic", Arial;
@@ -385,4 +385,9 @@ footer a{
   #logofooter{
     margin: auto;
   }
+}
+
+/* common  */
+#size>h1{
+  font-size: 15px;
 }
